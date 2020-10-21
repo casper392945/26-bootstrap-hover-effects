@@ -1,2 +1,2 @@
-# 26-bootstrap-hover-effects
+# 26 Bootstrap Hover Eeffects
 GitHub Pages
